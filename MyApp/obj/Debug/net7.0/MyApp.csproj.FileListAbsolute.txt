@@ -1,0 +1,15 @@
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/bin/Debug/net7.0/MyApp
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/ajensen/Desktop/ACCTMIS4630/MyApp/obj/Debug/net7.0/ref/MyApp.dll
